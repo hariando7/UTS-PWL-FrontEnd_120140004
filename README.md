@@ -20,7 +20,7 @@ Wait until the clone process is complete to proceed with the directory change st
 The next step is to change directories. If you are using Windows, you can use the following command:
 
 
-cd [direcTersebut]
+cd UTS-PWL-FrontEnd_120140004-main
 
 
 ### Depedencies Installation
